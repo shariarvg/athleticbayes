@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 If you've only seen an NBA player shoot 3 free throws, and he makes all of them, would you consider him to be a 100% free-throw shooter?
 
-I hope not! As data scientists, we know that while fun-sized datasets can provide *some* insight into a phenomenon, the statistics of those datasets are rarely the parameter of the population. But, that doesn't mean we lose all hope! Enter Bayes.
+I hope not! While fun-sized datasets can provide *some* insight into a phenomenon, the statistics of those datasets are rarely the parameter of the population. But, that doesn't mean we lose all hope! Enter Bayes.
 
 With Bayes Theorem and Maximum Likelihood Estimation, we can make educated guesses about a parameter using prior knowledge and a new sample of data.
 
