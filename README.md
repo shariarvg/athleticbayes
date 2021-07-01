@@ -1,5 +1,5 @@
-# athleticbayes
-Implementing Bayes for finding "true" NFL completion percentages and NBA free-throw percentages.
+# Athletic Bayes
+Implementing Bayes for finding "true" NFL completion percentages and NBA free-throw percentages. <br>
 Author: Shariar Vaez-Ghaemi
 
 ```{r setup, include=FALSE}
