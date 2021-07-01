@@ -1,0 +1,31 @@
+Players,Year,Data,College,College SD,Week 1,Week 2,Week 3,Week 4,Week 5,Week 6,Week 7,Week 8,Week 9,Week 10,Week 11,Week 12,Week 13,Week 14,Week 15,Week 16,Week 17,CP%
+Joe Burrow ,2020,https://www.pro-football-reference.com/players/B/BurrJo01/gamelog/2020/,76.3,19.59875826,63.89,60.66,70.45,69.44,63.33,64.1,74.47,70.27,52.5,64.71,,,,,,,,65.35
+Justin Herbert,2020,https://www.pro-football-reference.com/players/H/HerbJu00/gamelog/2020/,64,10.20876114,,66.67,71.43,80,58.82,,62.79,67.44,66.67,62.5,75.51,59.62,49.06,81.82,68.75,63.64,70.97,66.55
+Tua Tagovailoa,2020,https://www.pro-football-reference.com/players/T/TagoTu00/gamelog/2020/,69.3,14.76536821,,,,,,100,,54.55,71.43,60,55,,66.67,58.33,76.92,77.27,60.34,64.14
+Kyler Murray,2019,https://www.pro-football-reference.com/players/M/MurrKy00/gamelog/2019/,67.4,14.65000289,53.7,62.5,69.77,68.75,62.5,72.97,66.67,57.58,70.83,61.36,72.73,,55.88,66.67,76,61.11,61.9,64.39
+Daniel Jones,2019,https://www.pro-football-reference.com/players/J/JoneDa05/gamelog/2019/,59.9,9.971162786,75,,63.89,74.19,55.26,48.39,62.86,68.29,63.41,65,,58.33,54.05,,,66.67,59.57,61.87
+Dwayne Haskins ,2019,https://www.pro-football-reference.com/players/H/HaskDw00/gamelog/2019/,70,14.54925788,,,,52.94,,,,60,68.18,,54.29,44.83,52,59.26,67.86,80,,58.62
+Drew Lock,2019,https://www.pro-football-reference.com/players/L/LockDr00/gamelog/2019/,56.9,15.26545908,,,,,,,,,,,,,64.29,81.48,45,75.76,60.71,64.1
+Gardner Minshew,2019,https://www.pro-football-reference.com/players/M/MinsGa00/gamelog/2019/,65.2,13.08207513,88,69.7,66.67,57.58,59.09,48.28,46.88,64.71,57.45,,,,59.26,64.86,58.62,41.94,69.23,60.64
+Baker Mayfield ,2018,https://www.pro-football-reference.com/players/M/MayfBa00/gamelog/2018/,68.5,13.08207513,,,73.91,51.22,58.14,47.83,67.65,61.11,69.05,85,,73.08,67.44,81.82,58.06,72.97,54.76,63.79
+Lamar Jackson,2018,https://www.pro-football-reference.com/players/J/JackLa00/gamelog/2018/,57,12.86420821,25,,,,0,,100,80,100,,68.42,56,57.14,54.17,60.87,54.55,58.33,58.24
+Josh Allen,2018,https://www.pro-football-reference.com/players/A/AlleJo02/gamelog/2018/,56.2,10.6058375,40,54.55,68.18,48.48,52.63,58.82,,,,,,42.11,54.55,50,50,48.87,65.38,52.81
+Josh Rosen,2018,https://www.pro-football-reference.com/players/R/RoseJo01/gamelog/2018/,60.9,8.816969662,,,57.14,55.56,40,67.74,53.85,57.5,,56.41,45,63.16,42.31,64.41,59.09,52.17,52.94,55.22
+Sam Darnold,2018,https://www.pro-football-reference.com/players/D/DarnSa00/gamelog/2018/,64.9,7.697848147,76.19,60.98,48.39,50,45.45,80,40.48,48.28,53.85,,,,,66.67,63.16,68.57,57.14,57.73
+Deshaun Watson,2017,https://www.pro-football-reference.com/players/W/WatsDe00/gamelog/2017/,67.4,10.93620711,52.17,62.5,66.67,72.53,51.61,58.62,,63.33,,,,,,,,,,61.76
+Mitchell Trubisky,2017,https://www.pro-football-reference.com/players/T/TrubMi00/gamelog/2017/,67.5,21.12326277,,,,,48,50,57.14,43.75,,60,60,51.52,80,78.13,67.39,60.87,55.56,59.39
+Jared Goff,2016,https://www.pro-football-reference.com/players/G/GoffJa00/gamelog/2016/,62.3,8.054455242,,,,,,,,,,,54.84,62.5,43.75,58.54,52,45.83,65,54.63
+Carson Wentz,2016,https://www.pro-football-reference.com/players/W/WentCa00/gamelog/2016/,64.1,,59.46,61.76,74.19,,75.76,50,57.14,74.42,57.45,69.44,51.11,66.67,60,69.57,52.38,54.17,62.79,62.44
+Dak Prescott,2016,https://www.pro-football-reference.com/players/P/PresDa01/gamelog/2016/,62.8,17.46960825,55.56,73.33,79.17,71.88,75,66.67,,48.72,77.78,68.75,75,70.83,66.67,45.95,88.89,75,50,67.76
+Jameis Winston,2015,https://www.pro-football-reference.com/players/W/WinsJa00/gamelog/2015/,66,11.35485262,48.48,66.67,47.22,60.47,68.42,72.41,55.17,52.78,56.41,56.41,65.52,55.56,66.67,56.25,58,51.72,61.7,58.32
+Marcus Mariota,2015,https://www.pro-football-reference.com/players/M/MariMa01/gamelog/2015/,66.8,9.99605898,86.67,56.76,61.36,,65.63,63.64,,,71.79,66.67,62.86,45.95,68.97,53.85,50,,,62.16
+Teddy Bridgewater,2014,https://www.pro-football-reference.com/players/B/BridTe00/gamelog/2014/,68.4,15.39477846,,,60,63.33,,62.16,57.69,57.14,61.9,,64.29,56.76,71.43,70.37,75.61,73.08,68,64.43
+Johnny Manziel,2014,https://www.pro-football-reference.com/players/M/ManzJo00/gamelog/2014/,68.9,9.645513903,,0,,,,,,,,,,,62.5,,55.56,37.5,,51.43
+Blake Bortles,2014,https://www.pro-football-reference.com/players/B/BortBl00/gamelog/2014/,65.7,9.794919795,,,58.33,78.38,61.11,69.57,54.84,52.94,66.67,59.46,55.56,60,51.28,56.76,50,42.42,,58.95
+Derek Carr,2014,https://www.pro-football-reference.com/players/C/CarrDe02/gamelog/2014/,66.7,9.564854687,62.5,64.29,61.76,64,52.94,57.14,62.96,58.54,63.83,47.06,51.43,61.54,78.57,48.21,50,50,,58.1
+EJ Manuel,2013,https://www.pro-football-reference.com/players/M/ManuEJ00/gamelog/2013/,66.9,15.27410345,66.67,69.23,45.24,45.45,55,,,,,56.41,71.43,56.25,54.55,70.83,,,,58.82
+Geno Smith,2013,https://www.pro-football-reference.com/players/S/SmitGe00/gamelog/2013/,67.4,11.84959188,63.16,42.86,55.17,67.65,80,55.88,51.52,66.67,42.11,34.78,40.91,40,64,53.57,55.56,62.96,,55.76
+Andrew Luck,2012,https://www.pro-football-reference.com/players/L/LuckAn00/gamelog/2012/,67,12.05372427,51.11,64.52,47.83,56.36,50,55.17,68.42,62.5,69.23,54,54.05,44.44,47.06,48.15,48.57,50,,54.07
+Robert Griffin III,2012,https://www.pro-football-reference.com/players/G/GrifRo01/gamelog/2012/,67.1,12.57909107,73.08,68.97,61.76,74.29,66.67,77.27,71.43,47.06,58.97,,93.33,70.37,61.9,57.69,,66.67,50,65.65
+Ryan Tannehil,2012,https://www.pro-football-reference.com/players/T/TannRy00/gamelog/2012/,62.5,14.84679673,55.56,60,44.44,63.41,65.38,72.41,40,57.89,58.97,50,69.23,44.83,51.52,78.57,52,57.14,,58.26
+Russell Wilson,2012,https://www.pro-football-reference.com/players/W/WilsRu00/gamelog/2012/,60.9,13.37963134,52.94,75,47.62,68,76,59.26,39.13,71.43,66.67,63.16,,77.78,62.16,53.85,60.87,71.43,78.95,64.12
