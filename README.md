@@ -1,12 +1,6 @@
 # athleticbayes
 Implementing Bayes for finding "true" NFL completion percentages and NBA free-throw percentages.
-
----
-title: "cfb_readme"
-author: "Shariar Vaez-Ghaemi"
-date: "6/30/2021"
-output: html_document
----
+Author: Shariar Vaez-Ghaemi
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
