@@ -3,7 +3,7 @@ Implementing Bayes for finding "true" NFL completion percentages and NBA free-th
 Author: Shariar Vaez-Ghaemi
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## R Markdown
@@ -223,4 +223,6 @@ ndf %>%
   labs(x = "Half-Season Guess", y = "EOS Guess", title = "EOS Guess Compl % vs. Half Season Guess")
   theme_minimal()  
 ```
-![](bayes_graph2.png)
+<img src="bayes_graph2.png"
+     alt="EOS Guess vs HS Guess"
+     style="float: left; margin-right: 10px;" />
