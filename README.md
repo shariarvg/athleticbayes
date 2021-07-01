@@ -10,6 +10,8 @@ I hope not! While fun-sized datasets can provide *some* insight into a phenomeno
 
 With Bayes Theorem and Maximum Likelihood Estimation, we can make educated guesses about a parameter using prior knowledge and a new sample of data.
 
+Today, we're going to use Bayes Theorem to predict an NFL rookie quarterback's true completion percentage given their college completion percentage (prior) and their first few weeks of NFL completion percentages (new observations).
+
 [![Bayes Theorem Video](https://img.youtube.com/vi/IaRw1ZbTmhw/0.jpg)](https://www.youtube.com/watch?v=IaRw1ZbTmhw)
 
 ## Defining Functions
