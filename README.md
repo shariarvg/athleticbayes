@@ -14,7 +14,7 @@ I hope not! While fun-sized datasets can provide *some* insight into a phenomeno
 
 With Bayes Theorem and Maximum Likelihood Estimation, we can make educated guesses about a parameter using prior knowledge and a new sample of data.
 
-[![Bayes Theorem Video](https://img.youtube.com/vi/IaRw1ZbTmhw/0.jpg)](https://www.youtube.com/watch?v=IaRw1ZbTmhw)
+![Bayes Theorem Video](https://img.youtube.com/vi/IaRw1ZbTmhw/0.jpg)](https://www.youtube.com/watch?v=IaRw1ZbTmhw)
 
 ## Defining Functions
 
@@ -210,7 +210,7 @@ ggplot(ndf2,aes(x=as.numeric(order)))+
 
 ```
 
-[![](bayes_graph1.png)
+![](bayes_graph1)
 
 Another thing to look at is how much our half-season guesses correlate with end-of-season guesses. According to the graph below, very much. This makes sense, because players who perform better in the first half of their rookie season generally perform better over all.
 
@@ -223,6 +223,4 @@ ndf %>%
   labs(x = "Half-Season Guess", y = "EOS Guess", title = "EOS Guess Compl % vs. Half Season Guess")
   theme_minimal()  
 ```
-<img src="bayes_graph2.png"
-     alt="EOS Guess vs HS Guess"
-     style="float: left; margin-right: 10px;" />
+![](bayes_graph2)
