@@ -63,7 +63,7 @@ Let's input the completion percentage data as such. We'll have to remove Carson 
 No need to worry about the omission. Much like the Eagles, we'll be better off without Wentz's presence, anyway.
 
 ``` {r inputting data}
-df <- read.csv("/Users/shariarvaez-ghaemi/Downloads/PriorPosterior.csv")
+df <- read.csv("PriorPosterior.csv")
 df <- df[-c(17),] #Removing Wentz from the dataset
 nfl <- df[,c(6:22)] #Dataframe with only NFL numbers
 ```
