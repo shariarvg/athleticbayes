@@ -2,10 +2,6 @@
 Implementing Bayes for finding "true" NFL completion percentages and NBA free-throw percentages. <br>
 Author: Shariar Vaez-Ghaemi
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## R Markdown
 
 If you've only seen an NBA player shoot 3 free throws, and he makes all of them, would you consider him to be a 100% free-throw shooter?
