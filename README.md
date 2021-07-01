@@ -210,6 +210,8 @@ ggplot(ndf2,aes(x=as.numeric(order)))+
 
 ```
 
+![](bayes_graph1.png)
+
 Another thing to look at is how much our half-season guesses correlate with end-of-season guesses. According to the graph below, very much. This makes sense, because players who perform better in the first half of their rookie season generally perform better over all.
 
 ``` {r Half-Season vs EOS}
@@ -221,4 +223,4 @@ ndf %>%
   labs(x = "Half-Season Guess", y = "EOS Guess", title = "EOS Guess Compl % vs. Half Season Guess")
   theme_minimal()  
 ```
-
+![](bayes_graph2.png)
