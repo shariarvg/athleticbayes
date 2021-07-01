@@ -2,7 +2,7 @@
 
 library(ggplot2)
 
-df <- read.csv("/Users/shariarvaez-ghaemi/Downloads/PriorPosterior.csv")
+df <- read.csv("PriorPosterior.csv")
 df <- df[-c(17),] #!!
 View(df)
 
