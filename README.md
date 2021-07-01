@@ -16,7 +16,7 @@ With Bayes Theorem and Maximum Likelihood Estimation, we can make educated guess
 
 [![Bayes Theorem Video](https://img.youtube.com/vi/IaRw1ZbTmhw/0.jpg)](https://www.youtube.com/watch?v=IaRw1ZbTmhw)
 
-##Defining Functions
+## Defining Functions
 
 We'll start by defining our Bayesian algorithm and its prerequisite functions. Here is the two-tailed probability density function. There are existing packages that implement this in R, but I thought it would be easiest to understand the concept with the math in front of you.
 
@@ -191,7 +191,7 @@ ggplot(ndf2,mapping=aes(order,`Joe Burrow `))
 ggplot(ndf2,mapping=aes(order,`Justin Herbert`))
 ```
 
-##Looking at Some Visualizations
+## Looking at Some Visualizations
 
 Here are five players from the 2019 and 2020 NFL draft, along with the adjustments in their predicted completion percentage over the course of the season. With the exception of Joe Burrow, whose college completion percentage of 76% far out-shined everyone else in the dataset, most players' end-of-season Bayesian prediction was close to their actual completion percentage for the year.
 
