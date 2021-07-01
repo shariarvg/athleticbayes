@@ -14,7 +14,7 @@ I hope not! While fun-sized datasets can provide *some* insight into a phenomeno
 
 With Bayes Theorem and Maximum Likelihood Estimation, we can make educated guesses about a parameter using prior knowledge and a new sample of data.
 
-![Bayes Theorem Video](https://img.youtube.com/vi/IaRw1ZbTmhw/0.jpg)](https://www.youtube.com/watch?v=IaRw1ZbTmhw)
+[![Bayes Theorem Video](https://img.youtube.com/vi/IaRw1ZbTmhw/0.jpg)](https://www.youtube.com/watch?v=IaRw1ZbTmhw)
 
 ## Defining Functions
 
